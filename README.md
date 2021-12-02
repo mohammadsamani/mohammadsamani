@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Samani
-- 👀 I’m interested in condensed-matter physics, numerical analysis, woodworking, and Baroque and classical music.
+- 👀 I’m interested in condensed-matter physics, numerical modelling, Python, woodworking, and Baroque and classical music.
 - 🌱 I’m currently learning German and CommonLIPS. There is no good reason for either one.
 - 📫 Send me an email if you want to get in touch: m@msamani.ca
 
